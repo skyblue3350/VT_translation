@@ -1,6 +1,7 @@
 # VT_translation
 Vector Thrustの日本語化  
 多分多々間違ってる箇所があるので指摘あれば直します
+https://blog.sky-net.pw/article/44
 
 # 導入
 1. 適当なttfフォントを用意する  
