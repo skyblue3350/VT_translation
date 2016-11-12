@@ -1,0 +1,9 @@
+MyGUI_MessageBox_Ok OK
+MyGUI_MessageBox_Yes はい
+MyGUI_MessageBox_No いいえ
+MyGUI_MessageBox_Abort 中止
+MyGUI_MessageBox_Retry リトライ
+MyGUI_MessageBox_Ignore 無視
+MyGUI_MessageBox_Cancel キャンセル
+MyGUI_MessageBox_Try トライ
+MyGUI_MessageBox_Continue 続ける
